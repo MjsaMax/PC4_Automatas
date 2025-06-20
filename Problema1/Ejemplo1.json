@@ -1,0 +1,11 @@
+{
+    "noterminales": ["A", "B"],
+    "terminales": ["a", "b"],
+    "simbolo_inicial": "A",
+    "reglas": [
+        "A->aA",
+        "A->aB",
+        "B->bB",
+        "B->b"
+    ]
+}
