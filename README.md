@@ -46,8 +46,8 @@ Ejemplo:
         "B->bB",
         "B->b"
     ]
-}```
-
+}
+```
 ### 2. Eliminar símbolos no generativos y las reglas que la contienen y luego mostrar la gramática resultante
 
 (Páginas 7 y 8, Equivalencia Gramatical - Parte 1)
