@@ -26,7 +26,8 @@ Este botón permitirá visualizar el Árbol de Derivación que corresponde a la 
 
 ---
 
-## 2. Diseñar una aplicación en Python que utilice una interfaz gráfica a través de la cual sea posible leer desde fichero una gramática libre de contexto y realizar la eliminación de variables inútiles según los algoritmos desarrollados en clase. (Sesión 19 - Equivalencia Gramatical - Parte 1, 9Junio2025)
+## 2. Diseñar una aplicación en Python 
+... que utilice una interfaz gráfica a través de la cual sea posible leer desde fichero una gramática libre de contexto y realizar la eliminación de variables inútiles según los algoritmos desarrollados en clase. (Sesión 19 - Equivalencia Gramatical - Parte 1, 9Junio2025)
 
 El programa deberá ser capaz de:
 
