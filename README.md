@@ -10,7 +10,7 @@ Para el diseño de la aplicación puede utilizar el módulo tkinter. A continuac
 
 Asimismo para el desarrollo de este Proyecto puede importar el conjunto de librerías NLTK (Natural Language Toolkit).
 
-[![Image.PNG]]
+![Imagen](Image.PNG)
 
 ### Leer Gramática:
 
