@@ -46,7 +46,7 @@ Ejemplo:
         "B->bB",
         "B->b"
     ]
-}
+}```
 
 ### 2. Eliminar símbolos no generativos y las reglas que la contienen y luego mostrar la gramática resultante
 
