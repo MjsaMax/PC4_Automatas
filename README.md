@@ -3,7 +3,7 @@ FC-UNI
 PRÁCTICA CALIFICADA 4  
 TEORÍA DE AUTÓMATAS, LENGUAJES Y COMPUTACIÓN  
 CC321-A  
-
+## [DIAPOSITIVAS](https://www.canva.com/design/DAGq1-iiHrI/tfSx2NmPWS6hvsDVjAVPIw/edit?utm_content=DAGq1-iiHrI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## 1. Desarrolle una Interfaz Gráfica de Usuario similar a la Figura 1.
 
 Para el diseño de la aplicación puede utilizar el módulo tkinter. A continuación proceda a incorporar tres componentes botones, un entry para una sola línea o un Text para multilínea.
