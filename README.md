@@ -27,7 +27,7 @@ Este botón permitirá visualizar el Árbol de Derivación que corresponde a la 
 ---
 
 ## 2. Diseñar una aplicación en Python 
-... que utilice una interfaz gráfica a través de la cual sea posible leer desde fichero una gramática libre de contexto y realizar la eliminación de variables inútiles según los algoritmos desarrollados en clase. (Sesión 19 - Equivalencia Gramatical - Parte 1, 9Junio2025)
+... que utilice una interfaz gráfica a través de la cual sea posible leer desde fichero una gramática libre de contexto y realizar la eliminación de variables inútiles según los algoritmos desarrollados en clase. ([Sesión 19 - Equivalencia Gramatical](https://univirtual.uni.pe/mod/resource/view.php?id=435849) - Parte 1, 9Junio2025)
 
 El programa deberá ser capaz de:
 
@@ -50,11 +50,11 @@ Ejemplo:
 ```
 ### 2. Eliminar símbolos no generativos y las reglas que la contienen y luego mostrar la gramática resultante
 
-(Páginas 7 y 8, Equivalencia Gramatical - Parte 1)
+[(Páginas 7 y 8, Equivalencia Gramatical - Parte 1)](https://univirtual.uni.pe/mod/resource/view.php?id=435849)
 
 ### 3. Eliminar símbolos no alcanzables y las reglas que la contienen y luego mostrar la gramática resultante
 
-(Páginas 14 y 15, Equivalencia Gramatical - Parte 1)
+[(Páginas 14 y 15, Equivalencia Gramatical - Parte 1)](https://univirtual.uni.pe/mod/resource/view.php?id=435849)
 
 Los resultados de cada proceso son la entrada del siguiente.
 
