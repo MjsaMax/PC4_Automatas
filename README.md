@@ -47,3 +47,24 @@ Ejemplo:
         "B->b"
     ]
 }
+
+### 2. Eliminar símbolos no generativos y las reglas que la contienen y luego mostrar la gramática resultante
+
+(Páginas 7 y 8, Equivalencia Gramatical - Parte 1)
+
+### 3. Eliminar símbolos no alcanzables y las reglas que la contienen y luego mostrar la gramática resultante
+
+(Páginas 14 y 15, Equivalencia Gramatical - Parte 1)
+
+Los resultados de cada proceso son la entrada del siguiente.
+
+### Importante
+
+- Adjuntar la guía con la solución para la(s) gramática(s) de prueba.
+- Archivos de texto con las gramáticas utilizadas. Screenshots con la ejecución de su aplicación.
+- La aplicación deberá ser resuelta de manera modular (Importante modelar la solución con orientación a objetos).
+- Realizar el diagrama de clases correspondiente a la solución de cada caso.
+- Se evaluará la usabilidad de la aplicación.
+- Mostrar el funcionamiento del programa, este ya deberá de contar con la documentación necesaria.
+- Autodocumentado. Documentación de clases, atributos, métodos y algoritmos.
+
