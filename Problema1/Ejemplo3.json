@@ -1,0 +1,15 @@
+{
+  "noterminales": ["S", "M", "W", "Z", "Y"],
+  "terminales": ["x", "w", "z", "y"],
+  "simbolo_inicial": "S",
+  "reglas": [
+    "S->xM",
+    "M->WZ",
+    "W->w",
+    "W->wW",
+    "Z->zY",
+    "Y->y",
+    "Y->yZ",
+    "Z->"
+  ]
+}
