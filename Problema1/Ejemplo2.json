@@ -1,11 +1,11 @@
 {
-    "noterminales": ["A", "B"],
-    "terminales": ["a", "b"],
-    "simbolo_inicial": "A",
-    "reglas": [
-        "A->aA",
-        "A->aB",
-        "B->bB",
-        "B->b"
-    ]
+  "noterminales": ["S", "A"],
+  "terminales": ["a", "b"],
+  "simbolo_inicial": "S",
+  "reglas": [
+    "S->a",
+    "S->b",
+    "S->aSa",
+    "S->bSb"
+  ]
 }
